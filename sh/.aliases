@@ -1,0 +1,7 @@
+alias sudo="sudo "
+alias in="sudo zypper in "
+alias up="sudo zypper dup "
+alias py="python3.11 "
+alias c="clear"
+alias pbcopy='xsel --clipboard --input'
+alias pbpaste='xsel --clipboard --output'
